@@ -1,0 +1,3 @@
+How to read, write & show image
+How to get properties of an image
+How to convert color image into gray scale image
