@@ -1,1 +1,1 @@
-# pantech-solutions-ml
+# pantech-solutions courses
