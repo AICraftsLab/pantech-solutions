@@ -1,0 +1,6 @@
+About Moving Object detection
+How to resize an image
+How to apply Gaussian blur to an image
+How to apply thresholding to an image
+Syntax for putting text in an image
+Syntax for drawing rectangle in an image
